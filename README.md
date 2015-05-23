@@ -1,5 +1,8 @@
 # pushpull_test
 プッシュのテストを行いますよ
 
-# from pushpull_test
+# from コマンドライン
 プッシュのテストを行います
+
+# 競合テスト
+競合テストします
